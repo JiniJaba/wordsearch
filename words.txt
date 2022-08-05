@@ -1,0 +1,10 @@
+eagle
+owl
+peacock
+crow
+duck
+quail
+dove
+hen
+ostrich
+swallow
